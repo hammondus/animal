@@ -5,7 +5,7 @@ module 1. puppy.  is dependant on dog
   it has function
     becute
 
-moduel 2. dog .   is dependent on animal
+module 2. dog .   is dependent on animal
   it has functions
     walk & run which uses move from animals.
     bark
